@@ -2,7 +2,7 @@
 
 Auto-generated code documentation.
 
-::: analytics_project
+::: mart_store_IamVchick
     options:
       show_submodules: true
       show_source: true

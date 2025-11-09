@@ -1,8 +1,8 @@
-# Pro Analytics 02 Python Starter Repository
+# mart-store-IamVchick
 
 > Use this repo to start a professional Python project.
 
-- Additional information: <https://github.com/denisecase/pro-analytics-02>
+- Additional information: <https://github.com/IamVchick/mart-store-IamVchick>
 - Project organization: [STRUCTURE](./STRUCTURE.md)
 - Build professional skills:
   - **Environment Management**: Every project in isolation
@@ -122,10 +122,10 @@ Run the demo Python modules to confirm everything is working.
 In VS Code terminal, run:
 
 ```shell
-uv run python -m analytics_project.demo_module_basics
-uv run python -m analytics_project.demo_module_languages
-uv run python -m analytics_project.demo_module_stats
-uv run python -m analytics_project.demo_module_viz
+uv run python -m mart-store-IamVchick.demo_module_basics
+uv run python -m mart-store-IamVchick.demo_module_languages
+uv run python -m mart-store-IamVchick.demo_module_stats
+uv run python -m mart-store-IamVchick.demo_module_viz
 ```
 
 You should see:
